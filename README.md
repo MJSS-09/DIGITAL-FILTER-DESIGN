@@ -53,6 +53,8 @@ FIR Filter: Design band-pass, high-pass, and band-stop variants; increase filter
 
 #OUTPUT
 
+<img width="1556" height="630" alt="Image" src="https://github.com/user-attachments/assets/7f810d6f-31a0-4bde-b85d-2c0510f21cb2" />
+
 
 
 
